@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* La Liga brand palette */
+  --color-ll-orange:  #FF4B00;
+  --color-ll-accent:  #FF6B35;
+  --color-ll-navy:    #1A1A2E;
+  --color-ll-light:   #F5F5F5;
+  --color-ll-card:    #FFFFFF;
+  --color-ll-field:   #4A7C59;
+  --color-ll-border:  #E8E0D8;
+  --color-ll-muted:   #6B7280;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+:root {
+  --background: #FFFFFF;
+  --foreground: #1A1A2E;
+}
+
+body {
+  background-color: #FFFFFF;
+  color: #1A1A2E;
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}

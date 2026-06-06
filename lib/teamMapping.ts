@@ -1,0 +1,23 @@
+// Maps rivals.csv team_key → draft_players.csv club_name
+export const TEAM_KEY_TO_CLUB: Record<string, string> = {
+  'Ath Bilbao': 'Athletic Club',
+  'Ath Madrid': 'Atlético Madrid',
+  'Barcelona': 'FC Barcelona',
+  'Betis': 'Real Betis',
+  'Celta': 'Celta de Vigo',
+  'Getafe': 'Getafe',
+  'Granada': 'Granada',
+  'Las Palmas': 'Las Palmas',
+  'Real Madrid': 'Real Madrid',
+  'Sevilla': 'Sevilla',
+  'Sociedad': 'Real Sociedad',
+  'Valencia': 'Valencia',
+  'Villarreal': 'Villarreal',
+  'Alaves': 'Deportivo Alavés',
+  'Almeria': 'Almería',
+  'Cadiz': 'Cádiz',
+  'Girona': 'Girona',
+  'Mallorca': 'Mallorca',
+  'Osasuna': 'Osasuna',
+  'Vallecano': 'Rayo Vallecano',
+};
