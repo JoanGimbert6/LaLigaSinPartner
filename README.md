@@ -57,27 +57,7 @@ Al finalizar la temporada puedes:
 
 ---
 
-## Stack técnico
 
-- **Next.js 16** (App Router)
-- **React 19**
-- **Tailwind CSS 4**
-- **TypeScript**
-- Datos de jugadores y equipos de FIFA 16 a FIFA 25
-- Desplegado en **Vercel**
-
----
-
-## Instalación local
-
-```bash
-git clone https://github.com/JoanGimbert6/LaLigaSinPartner.git
-cd LaLigaSinPartner
-npm install
-npm run dev
-```
-
-Abre [http://localhost:3000](http://localhost:3000) en el navegador.
 
 ---
 
