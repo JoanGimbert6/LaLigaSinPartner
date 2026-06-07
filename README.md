@@ -1,5 +1,5 @@
 # LaLiga Sin Partner
-
+https://la-liga-sin-partner.vercel.app/
 Un juego de draft de fútbol inspirado en los equipos históricos de La Liga Santander. Construye tu once ideal fichando jugadores de los mejores equipos de La Liga entre 2015 y 2025, simula una temporada completa de 38 jornadas y compite contra rivales históricos reales.
 
 **Inspirado en el 7-0 pero de la mejor liga del mundo (sin perras por culpa de Tebas).**
