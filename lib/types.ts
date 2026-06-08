@@ -1,5 +1,6 @@
 export type Formation  = '4-3-3' | '4-4-2';
 export type Difficulty = 'normal' | 'hard';
+export type GameMode   = 'normal' | 'prime';
 export type PositionCategory = 'GK' | 'DEF' | 'MID' | 'FWD';
 
 export interface PositionSlot {
@@ -16,6 +17,7 @@ export interface Player {
   clubName: string;
   playerPositions: string;
   overall: number;
+  primeOverall?: number;
   pace: number | null;
   shooting: number | null;
   passing: number | null;
@@ -77,4 +79,17 @@ export interface GameState {
   teamName:   string;
   picks:      DraftPick[];
   difficulty: Difficulty;
+  gameMode:   GameMode;
+}
+
+export interface LeaderboardEntry {
+  id: string;
+  playerName: string;
+  points: number;
+  position: number;
+  gf: number;
+  ga: number;
+  players: { name: string; overall: number; position: string }[];
+  date: string;
+  primeMode: boolean;
 }

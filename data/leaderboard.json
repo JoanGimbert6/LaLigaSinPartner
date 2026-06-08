@@ -1,0 +1,69 @@
+[
+  {
+    "id": "1780938945797",
+    "playerName": "Messicarrito",
+    "points": 86,
+    "position": 2,
+    "gf": 93,
+    "ga": 43,
+    "players": [
+      {
+        "name": "Pacheco",
+        "overall": 82,
+        "position": "GK"
+      },
+      {
+        "name": "M. Acuña",
+        "overall": 85,
+        "position": "LB"
+      },
+      {
+        "name": "J. Giménez",
+        "overall": 84,
+        "position": "CB"
+      },
+      {
+        "name": "Aythami Artiles",
+        "overall": 69,
+        "position": "CB"
+      },
+      {
+        "name": "Tito",
+        "overall": 76,
+        "position": "RB"
+      },
+      {
+        "name": "Montoro",
+        "overall": 77,
+        "position": "CM"
+      },
+      {
+        "name": "Aleix García",
+        "overall": 80,
+        "position": "CM"
+      },
+      {
+        "name": "Unai López",
+        "overall": 77,
+        "position": "CM"
+      },
+      {
+        "name": "Oyarzabal",
+        "overall": 85,
+        "position": "LW"
+      },
+      {
+        "name": "L. Messi",
+        "overall": 94,
+        "position": "ST"
+      },
+      {
+        "name": "Iago Aspas",
+        "overall": 85,
+        "position": "RW"
+      }
+    ],
+    "date": "2026-06-08T17:15:45.797Z",
+    "primeMode": false
+  }
+]
